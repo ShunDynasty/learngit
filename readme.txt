@@ -5,3 +5,5 @@ Git tracks changes of files.
 readme.text
 Creating a new branch is quick and simple.
 xiugai_1
+
+xiugai_2bug
